@@ -1,0 +1,13 @@
+    # Alt+up arr---->moving up the line
+    # shit+Alt+up--->duplicate line up or down
+    # ctrl+shift+k-->delete line
+    # ctrl+z-->undo
+    # ctrl+y-->redo
+    # ctrl+a-->selects all
+    # ctrl+l---->line slect
+    # ctrl+d--.word selects
+    # ctrl+h--->replace
+    # ctrl+f-->Find
+    # ctrl+/-->comment
+    # tab+select lines-->move forward
+    # shift+tab+select lines-->move backwards
