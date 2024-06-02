@@ -1,0 +1,50 @@
+What is a VPN and how does it work?
+What is SDN (Software-Defined Networking) and its benefits?
+Explain the role of SSL/TLS in network security.
+What is the role of DNSSEC (DNS Security Extensions)?
+What is an IP address and what are the different classes of IP addresses?
+What is the purpose of a gateway in a network?
+What is the OSI model and what are its layers?
+Explain what a firewall is and how it functions.
+What is a DMZ (Demilitarized Zone) in networking?
+What is the difference between OSPF (Open Shortest Path First) and RIP (Routing Information Protocol)?
+What is load balancing and how does it work?
+What is a network collision and how can it be avoided?
+What is a subnet and why is it used?
+What are the different types of network attacks (e.g., DoS, DDoS, MITM)?
+Describe the impact of 5G technology on networking.
+Describe the function of the Transport Layer in the OSI model.
+What is EIGRP (Enhanced Interior Gateway Routing Protocol)?
+Explain the concept of network slicing.
+What is the difference between symmetric and asymmetric encryption?
+Explain the difference between static and dynamic IP addressing.
+Explain the concept of tunneling in networking.
+What is the difference between a public IP address and a private IP address?
+What are the key differences between TCP and UDP?
+What is ARP (Address Resolution Protocol)?
+What is NAT (Network Address Translation)?
+What is DHCP and how does it work?
+What is Quality of Service (QoS) and why is it important?
+Explain the concept of network segmentation.
+Describe how packet switching works.
+What is a computer network?
+What is a MAC address?
+Explain the concept of MPLS (Multiprotocol Label Switching).
+What is a VLAN and what are its advantages?
+What is the difference between a hub, switch, and router?
+What are the main types of networks (LAN, WAN, MAN)?
+Explain the concept of DNS and its importance in networking.
+Explain the process of a three-way handshake in TCP.
+What are the differences between IPv4 header and IPv6 header?
+Describe the difference between a stateful and stateless firewall.
+What are the common networking protocols used at different layers of the OSI model?
+What is SNMP (Simple Network Management Protocol)?
+What is BGP (Border Gateway Protocol) and how does it work?
+What is network redundancy and why is it important?
+What are the differences between various types of wireless encryption (WEP, WPA, WPA2, WPA3)?
+What are routing tables and how are they used in networking?
+What is a proxy server and what is its role in networking?
+Explain the difference between IPv4 and IPv6.
+What is the difference between half-duplex and full-duplex communication?
+Explain the concept of network topology and list different types.
+What are the main challenges in implementing IoT (Internet of Things) networks?
